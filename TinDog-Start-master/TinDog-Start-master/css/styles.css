@@ -1,0 +1,184 @@
+body{
+  font-family: "Montserrat";
+}
+
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.head {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+.container-fluid{
+  padding: 3% 10% 7%;
+}
+
+.navbar{
+  padding: 0 0 0 0;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+
+}
+
+.nav-link{
+  font-family: "Montserrat";
+  font-weight:300;
+  font-size: 1.2rem;
+}
+.row{
+  padding-top: 4.5rem;
+}
+
+.downloadbutton{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 21%;
+  transform: rotate(25deg);
+position: absolute;
+right: 19%;
+
+}
+
+.Icons{
+  margin: 0 0 0 5rem;
+}
+
+.Icons2{
+  margin: 0 5rem 0 0;
+}
+
+
+#features{
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  padding: 8% 8% 10% 8%;
+  margin-bottom: 4.5rem;
+  background-color: #fff;
+  position: relative;
+  z-index: 1
+}
+
+h3{
+  font-weight: 900;
+}
+
+p{
+  font-size: 1rem;
+  color: #8f8f8f;
+}
+
+.fa-check-circle {
+  font-size: 3rem;
+  color: #ef8172;
+}
+.fa-bullseye {
+  font-size: 3rem;
+  color: #ef8172;
+}
+.fa-heart {
+  font-size: 3rem;
+  color: #ef8172;
+}
+
+.fa-check-circle:hover{
+  transition: 1s;
+  color: red;
+}
+
+.fa-bullseye:hover{
+  transition: 1s;
+  color: red;
+}
+
+.fa-heart:hover{
+  transition: 1s;
+  color: red;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ff4c68;
+  color:#fff;
+
+}
+
+.carousel-item{
+  padding: 7% 15% 7% 15%;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.image-testimonial{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+background-color: #ff4c68;
+text-align: center;
+padding-bottom: 3%;
+
+}
+
+.press-images{
+  width: 15%;
+  margin: 20px 20px 50px;/**/
+}
+
+#pricing{
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+}
+
+.spacing{
+  padding: 20px 0px 20px 0;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+#cta{
+  background-color:  #ff4c68;
+  text-align: center;
+  color:#fff;
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+.calltoaction{
+  font-size: 2.5rem;
+  padding: 10% 10% 0;
+}
+
+#footer{
+  text-align: center;
+}
+
+.footericons{
+  padding: 1% 1% 1% 1%;
+}
